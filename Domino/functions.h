@@ -1,0 +1,13 @@
+void generatePieces();
+void shufflePieces();
+void initializeGame();
+void buyPiecesPlayer1();
+int showPiecesPlayer1();
+void buyPiecesPlayer2();
+int showPiecesPlayer2();
+void showPiecesToBuy();
+void leaveGame();
+void visualArtGame();
+int gameMenu();
+int jogarPeca();
+void passarVez();

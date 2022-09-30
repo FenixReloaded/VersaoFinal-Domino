@@ -1,0 +1,13 @@
+﻿  view.c
+C:\Users\Caio\Downloads\Domino-C-NaoJogavel\Domino-C-NaoJogavel\Domino\view.c(102,5): warning C4013: 'optionMenu' indefinido; assumindo extern retornando int
+C:\Users\Caio\Downloads\Domino-C-NaoJogavel\Domino-C-NaoJogavel\Domino\view.c(36,12): warning C4101: 'statspieces': variável local não referenciada
+C:\Users\Caio\Downloads\Domino-C-NaoJogavel\Domino-C-NaoJogavel\Domino\view.c(33,22): warning C4101: 'jogador1': variável local não referenciada
+C:\Users\Caio\Downloads\Domino-C-NaoJogavel\Domino-C-NaoJogavel\Domino\view.c(35,22): warning C4101: 'buy': variável local não referenciada
+C:\Users\Caio\Downloads\Domino-C-NaoJogavel\Domino-C-NaoJogavel\Domino\view.c(32,22): warning C4101: 'pieces': variável local não referenciada
+C:\Users\Caio\Downloads\Domino-C-NaoJogavel\Domino-C-NaoJogavel\Domino\view.c(36,9): warning C4101: 'j': variável local não referenciada
+C:\Users\Caio\Downloads\Domino-C-NaoJogavel\Domino-C-NaoJogavel\Domino\view.c(36,6): warning C4101: 'i': variável local não referenciada
+C:\Users\Caio\Downloads\Domino-C-NaoJogavel\Domino-C-NaoJogavel\Domino\view.c(34,22): warning C4101: 'jogador2': variável local não referenciada
+C:\Users\Caio\Downloads\Domino-C-NaoJogavel\Domino-C-NaoJogavel\Domino\view.c(141): warning C4716: 'gameMenu': deve retornar um valor
+C:\Users\Caio\Downloads\Domino-C-NaoJogavel\Domino-C-NaoJogavel\Domino\view.c(282): warning C4716: 'optionMenu': deve retornar um valor
+C:\Users\Caio\Downloads\Domino-C-NaoJogavel\Domino-C-NaoJogavel\Domino\view.c(198): warning C4716: 'showPiecesTable': deve retornar um valor
+  Domino.vcxproj -> C:\Users\Caio\Downloads\Domino-C-NaoJogavel\Domino-C-NaoJogavel\x64\Debug\Domino.exe
